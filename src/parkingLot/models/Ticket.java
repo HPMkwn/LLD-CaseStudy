@@ -54,7 +54,7 @@ public class Ticket extends BaseModel{
         return operator;
     }
 
-    public void setOperator(Operator operator) {
+    public void setGeneratedBy(Operator operator) {
         this.operator = operator;
     }
 }

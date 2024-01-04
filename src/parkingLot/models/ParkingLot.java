@@ -6,7 +6,7 @@ public class ParkingLot extends BaseModel{
     private List<ParkingFloor> parkingFloors;
     private List<Gate> gates;
     private ParkingLotStatus parkingLotStatus;
-    private SlotAllocationStrategy slotAllocationStrategy;
+    private SlotAllocationStrategyType slotAllocationStrategyType;
     private FeeCalculationStrategyType feeCalculationStrategyType;
     private String address;
 
@@ -34,12 +34,12 @@ public class ParkingLot extends BaseModel{
         this.parkingLotStatus = parkingLotStatus;
     }
 
-    public SlotAllocationStrategy getSlotAllocationStrategy() {
-        return slotAllocationStrategy;
+    public SlotAllocationStrategyType getSlotAllocationStrategyType() {
+        return slotAllocationStrategyType;
     }
 
-    public void setSlotAllocationStrategy(SlotAllocationStrategy slotAllocationStrategy) {
-        this.slotAllocationStrategy = slotAllocationStrategy;
+    public void setSlotAllocationStrategyType(SlotAllocationStrategyType slotAllocationStrategyType) {
+        this.slotAllocationStrategyType = slotAllocationStrategyType;
     }
 
     public FeeCalculationStrategyType getFeeCalculationStrategyType() {

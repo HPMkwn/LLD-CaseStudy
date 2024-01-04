@@ -5,33 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="305ee8b5-b152-4502-b8d3-48e0b6df51de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD-CaseStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/BaseModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/Bill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/BillStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/FeeCalculationStrategyType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/Gate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/GateStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/GateType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/ParkingFloor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/ParkingLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/ParkingLotStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/ParkingSpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/ParkingSpotStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/PaymentMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/PaymentStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/SlotAllocationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parkingLot/models/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingLotApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkingLot/controllers/TicketController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkingLot/dtos/IssueTicketRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkingLot/dtos/IssueTicketResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkingLot/dtos/ResposneStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkingLot/exceptions/GateNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkingLot/repositories/GateRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkingLot/repositories/ParkingLotRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkingLot/repositories/TicketRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkingLot/repositories/VehicleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkingLot/services/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkingLot/services/TicketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkingLot/stratagies/RandomSlotAssignmentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkingLot/stratagies/SlotAllotmentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkingLot/stratagies/SlotAllotmentStrategyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parkingLot/models/ParkingLot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parkingLot/models/ParkingLot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parkingLot/models/SlotAllocationStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parkingLot/models/SlotAllocationStrategyType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parkingLot/models/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parkingLot/models/Ticket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +36,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -65,17 +60,22 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/mr.mkwn/IdeaProjects/LLD-CaseStudy/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/mr.mkwn/IdeaProjects/LLD-CaseStudy/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="parkingLot.services" />
+      <recent name="parkingLot.exceptions" />
+      <recent name="parkingLot.dtos" />
       <recent name="parkingLot.models" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ParkingLotApplication">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LLD-CaseStudy" />
@@ -83,8 +83,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ParkingLotApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParkingLotApplication" />
+      <module name="LLD-CaseStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ParkingLotApplication" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -122,8 +130,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/src/ParkingLotApplication.java</url>
+          <line>5</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

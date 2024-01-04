@@ -1,6 +1,6 @@
 package parkingLot.models;
 
-public enum SlotAllocationStrategy {
+public enum SlotAllocationStrategyType {
     RANDOM_SLOT,
     NEAREST_SLOT
 }
