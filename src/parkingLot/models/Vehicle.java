@@ -1,6 +1,6 @@
 package parkingLot.models;
 
-public class Vehicle {
+public class Vehicle extends BaseModel{
     private String number;
     private VehicleType vehicleType;
     private String ownerName;

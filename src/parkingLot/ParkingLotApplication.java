@@ -1,3 +1,5 @@
+package parkingLot;
+
 import parkingLot.controllers.TicketController;
 import parkingLot.repositories.GateRepository;
 import parkingLot.repositories.ParkingLotRepository;
