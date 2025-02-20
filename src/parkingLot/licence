@@ -1,0 +1,163 @@
+[
+  {
+    "product": "itext-core",
+    "licensee": {
+      "company": "Sapient",
+      "name": "Kulwant Sharma",
+      "email": "kulwantsharma1991@gmail.com"
+    },
+    "key": "5274660fce54e9aa641fd57a9cc03f62270b810da9ddddeedb202a3fc07a3003",
+    "creationDate": "2025-02-18",
+    "expirationDate": "2025-03-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "YhipbsGuRxB37qeh3ozNvStQQZmW0k/wXFW+eGU9KM+y+vGmY8v3PyoIv5BjNR4zTUfN0fAc+1dURAwk4tm5lnI2NAFFHkRBGitcYiwfCW+DzMaLfcx7VN2Q2pClvFWhmj6l+fPmwqSJ2uDFsIAPWP4/bpVGNeIX5e+HzNzFQ55NpTIn77u3/5mkCxaORXh6MBmUoJ6s8xpElw7+r2nrNfDE+xwRZeS/EO2fw9h1fXU9fLvjEqQyg3UvvOYaHN8UyRcIV0mJyYJ/DQxEJ4qIPu4c0zJFheQFLVIJ6Hd7/p/PlAcLFF0rCKD8jauBUhdrWmsOZX1JRbk5KEEoHuZ/xPPM6D4+Ur/Cm5vu2kd+ICyFJ656I3XpfXZUNTtynE4lmUlUfTSPq5TJl6/BLWncAWHzMvlIw8tz5fu/kZ5riHXU1fZb0YGMMbBcoehTkz2C9NGcGDCEYP2HEAOFLndjtIhVdr2EsLhAVn8tYVbiN9ghP0+g990oXtZ/ZMFB/IwNAoZbwITwS1Mz8XPjeGz7twA4xSkPmTt2EujFPsQzmvFpv5fjnpebnNUqH+Swpck7MLj4jWee4WTaO+I1ZC2wgodT89xYz0bIIygA7FFkfyCZqJjkW0ZvbDpkg9Xmscc0RkmBlwI53kR8S0z2z7qi+JtEiiBdWGL/BVhjZ135DcU="
+  },
+  {
+    "product": "pdfXfa",
+    "licensee": {
+      "company": "Sapient",
+      "name": "Kulwant Sharma",
+      "email": "kulwantsharma1991@gmail.com"
+    },
+    "key": "5274660fce54e9aa641fd57a9cc03f62270b810da9ddddeedb202a3fc07a3003",
+    "creationDate": "2025-02-18",
+    "expirationDate": "2025-03-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "MN5b2UFDjm9LmTg142ca7OwoQtl2Fx1UxUS/Kibc/whqYny26/TMQ60BDIyG6xhW8kcwkZQMXHEkoWyOvROWxUjgzZ5fo2xWY8ATsKXRRSMDuEI4Nj6RBndIvgnvzSrpa6fLGJeF2CrDmTY8s1FNhgwd21kTzVBHtoDkVKXXNTKon+nAdViJJAg6WL0n5OBOm3bDeqMm263d7N0x0LHVBDhM9DxDJ3epoQmuovvfwaI6yGC1JDsuSatGNwiM436rOeXg9Y+R8/wtowoN2l+HtGAT7SuyOhMmGFiUvR3u4WC1xDsRPPxyXnpqN4pXXW4BZw0kpIhESzKURca1UP9/4V+DWseS9JybLgV1DkEyIRsiz81zeZvNAPzd4MclFcHcpsVaAleMGD7nLqWrTwS17+Bdgrw27LYG7MGZeduFSnrMaIg3LdfDHWviyGYQ9O0VQmhNxlRJhcanMmSZZVTYUpoZOGsXH689h2i45is36zTxgZcf9QX4TtkcEoAbIkVbLmcDb9rL52Nlyrjlt5mH7H5nOrANSiW8ZbTzAvrvL8+vjs60GPIUR166M+ltA9c8gmkhgsh1mnWYCrDvWVbV7s3h6Wlzr0rvXJCzSf3H7lFMD2Bd6YfldBFGAgtl8QA57Ybgxu4DbGLmLWHa3DwSX9oQ8atYqmGevXdYrH3MzR8="
+  },
+  {
+    "product": "pdfSweep",
+    "licensee": {
+      "company": "Sapient",
+      "name": "Kulwant Sharma",
+      "email": "kulwantsharma1991@gmail.com"
+    },
+    "key": "5274660fce54e9aa641fd57a9cc03f62270b810da9ddddeedb202a3fc07a3003",
+    "creationDate": "2025-02-18",
+    "expirationDate": "2025-03-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "OYySLnDNGdhSTvdn0c+iNLA6tJvULxFSq2ts64mf7MFdyQTuPNvDaq/xlNvSNr37NSwfUEFb/4VTHezv7i/KhTcOaTZWzOYhAH3aP5h+HBo7p7brQuyxAX6FHZsQQMhEqaO8efiQuvoHga3AaMr9WcSnuQXS1oTi2uvFBE3zq/1bnX25f6xKrY7NcFmyFRioVNxH3BdQLeCAelik4ZRU7048GGFwUHkxLj0ZlnvjGId7wn4vou1HjlgoIThhscM9PwXEpnLv5Y61DW5Cg6PErVoykJ+Fa749NNnePa8ntSi57ZvIUknjZ/nMVKxdCHR1flapD9Ap820hCCim7G8yb2KeslE4JcE1r5FvY9cbtwX5Br3urL3meWgeAuzkc+hUJp6x2NUlaTptuvm4lgfFwePU6wQLvUnTpDhfidP9Ll42btEH7d5u4ZsxEAhi7C1S/kS3OrvU+HOHwUf2b9zoM1vqqu5bY5PaHb+zfxITcMqQj0GXeOiUY0xDGsm/CuudNMi7ysm5mz/UydqJOLQhNSWVhnHg5f/Q5IQNsfRCQiy7KDGGQQk0wlCfY75YPVoQUrJ/vPKFGQYrvVLm1nj4fW79yMsN4jPNsGsuF1/YLWVbFo3nnbPoKNSIcZ2PyAWe6qlxPNGtTdKH8dQkbpQNxEJc3eNfpqxahwfMKlPGeJA="
+  },
+  {
+    "product": "pdfOcr-tesseract4",
+    "licensee": {
+      "company": "Sapient",
+      "name": "Kulwant Sharma",
+      "email": "kulwantsharma1991@gmail.com"
+    },
+    "key": "5274660fce54e9aa641fd57a9cc03f62270b810da9ddddeedb202a3fc07a3003",
+    "creationDate": "2025-02-18",
+    "expirationDate": "2025-03-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "BVhx1vXgoA1iZzHMquWbgnZb1hopcJcVK7rN9hw6zg7IorjozHoFc7VVswquh5S0izliyIca3aa7QNxe0BIQD94eq2ypxzIVYf7dt2qa6rNevzcqeNCmVGpzEbSg6h5lMB7rftzNcDKBDHYKnOTqpDjSsz+ycZlN2r674XHdqo8HNWhqKYsSwa5oREDNSdUFeAexoUCgIgjmqwUwfyKtkKANOohwDIJFKOockg8yCtvgRrhL+yPeoLpaFJm9dt/fyvBSb5DVQDyvTVLWTfJYmMsOSgY5JypJoRQCWpu1UIPABoXAbhGztDI7UhE6Gb6rsVEXZAdnr825fGmJZ8A6yFCNm7DjfCzfOQ2fCbjmo9UDn2iaIZmTPemQv22GL6KyNa3AREhheaYEoukQ0VTiwVhGOV7lNzifTqapGuwAmJiN/NrLwz/1eLTz/Gf1dDBiWDM1gFLUW4YZpe7dJI7pCEmHpOsqoZCcl5SHcYV9+7i+Dqwb6D43xMfK+mHKXKDJcdIqSLADlCK/rp81n71ru3npKt94NGSGS5abb7M/xH8XlMTFcTDkHAIuddnzIE7dcs2c9gwTYDWQNk+4W/CvK0MVf/4FhKHVeShPNTg+W+1nA3hgOEQ7Uemi3st8p//9NRECCfxVlRoJeC1wwixKNKPrf67V4N/YS+kTSp5hd3I="
+  },
+  {
+    "product": "pdfOptimizer",
+    "licensee": {
+      "company": "Sapient",
+      "name": "Kulwant Sharma",
+      "email": "kulwantsharma1991@gmail.com"
+    },
+    "key": "5274660fce54e9aa641fd57a9cc03f62270b810da9ddddeedb202a3fc07a3003",
+    "creationDate": "2025-02-18",
+    "expirationDate": "2025-03-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "dK0d7cj09yV6y1TlJ3wrfTZZEmTjuGWqqj2j5bb0RSGlg4ZrrEhFKxwhwCMaHKielfakD+KKQ6tQbSji055n7BXG8r8M+cTUj0A8eGcEqCS8bMJ43u1HFihoa0b82XSmDuVoNxe0kjxzFXs4DD/m+xqpzco1mDrSu43s/oSQpeDMJZwwns+9U7wbgHL1fQGWLTozta56S+n9l3ijWu9jL5AUHB/RLXhe5zUeEZXjUkR2Zy6sUkaO9T/Xwkjyr+6EvsVIEi/Y+iUiaUGXTxt3gDq/xuOA1fvHRnKSm+QyIHPUWItEKOHVmXuSkEwgcu8+bNkx8IpOOGnYYNsGYgnOa8ivJsEwAMuqwdnTFKM0V/I9KSzzyHLMZMhrcRMvFveqglREn32ePue6IRmpBJkhhU/8H07kd8FSmfcNDKdqtZXH/Zd+GXm1j1owcMDkuAi3lJRtgLHNr0E7W1sQL6ofHrhqr31IL3RJSgLkoygVd7zvju0HU7q/sT689TqIDthHTCwT3N9NIV+ywEg2EugiBq21DqYXVBe880SAliL1tjaEPo/rGlB5qvp+XGBgXCxj7UQcgD3suy7eE9CvHTECUazstQEF0IoIgT57BT8A/yJ1aIXrdJq7AtddN0jdIzDbecZoc115wjD5rfCi1gtDKvb45CHDXGK7eJwGiBnFfrs="
+  },
+  {
+    "product": "pdfHtml",
+    "licensee": {
+      "company": "Sapient",
+      "name": "Kulwant Sharma",
+      "email": "kulwantsharma1991@gmail.com"
+    },
+    "key": "5274660fce54e9aa641fd57a9cc03f62270b810da9ddddeedb202a3fc07a3003",
+    "creationDate": "2025-02-18",
+    "expirationDate": "2025-03-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "HxJiMA4HvkP2i1qdTmSsIfNi/yUMT/Zg7HQThRJ+lCIb1V86ed/IR0XBgUbAwAMDttv/QHKvv3QL1RC+8kvlaENlz/57Ss8hAzDd8ufjPjlrOiL+5eO8yWzOOWAQYFPLhbh0O22ovx99OEvIACYNsvCdBW1C6gpqDyQzQ+CPlLKN9/YgtlrsO2AtlUiC+6sbRjOYwkhEpjFU9Sb2l0ZsiUsWMalITGvf/jeuVrpweMO/ieOMD6+9sOnIXiLwIqrL4Gp8MBVHzzkEH1zc8S59Hxf3yDK9GfuBEDZk3xlTH38ROrlfbZvy1PXCgpgHBVPcq24ZZtmlxDup1mPs0ZKVebammKJDVPRMgyPRIkzlqsG80TzniELZ43ZX6G0WViCWRKFWK+7I2xGEGLZqlr6VU2X1Oh4DAk4tZxGDx5T8FCxX38wYppZDpp2Scop6viSOyYTuv8CGcPjR/pP4iVeZUG1pnKv3ieHpky1o8RnqXuH2G7Ijfb0gwji3g1qAcY4pkQBb/22oP0P3bvRrmAgt3qbD2YQIdDvGG4f097P5nMTG57OF7WACG3wIUEsLoCf+CotqglYTJQHf+P87IrvCFoempuiD439MM2BDSjpJZed77iQyrZfPLIqhoAhjneUrejQTTmsNBKkWqPSJQ6g0KaNV6b/mzY3n4urRA4Ge/TQ="
+  },
+  {
+    "product": "pdfCalligraph",
+    "licensee": {
+      "company": "Sapient",
+      "name": "Kulwant Sharma",
+      "email": "kulwantsharma1991@gmail.com"
+    },
+    "key": "5274660fce54e9aa641fd57a9cc03f62270b810da9ddddeedb202a3fc07a3003",
+    "creationDate": "2025-02-18",
+    "expirationDate": "2025-03-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "al3fcaipbTXsSFRdSvegSvf8mqEsth1PfHfSiq37Z+uA5pA2VcjxHOketVIt5eDZ2YHYYjH3BuWnBhMieK2IkC6jfceETox+j/h7blgdw6A2+as9RQyDwlSxuwGkHt39jPbuQtYVjBlIr9k90gn+qCEDDLNXnl0LvoM7biuV67B7P63OadaN9Y5/NiPN6JKRTL5ZW5bD+sbNDMWPxWwIHNW+4+v75UXE0usuvDXipaiLaDRSrjQTXpk4DvfAVtuUunTGVV4KNr6b7r6d2jHQw7WtolYpTLorsEiuf4uGF1VgGKt01SYM38dPncbhIxdrs9I1asA0hqscRjNdS3dh5ho38zCMQB3iZlfSCvdoMdUmjrraGyEHqpf3GKDjLDDFmGSPkyolLZ0sCHe49e3X0AsBoZr/4x6282SggnCxybIDvzk+eYASaNc/e7jDP5O8mU8n1V4I+xM2E7j0+/tcF81qdADLfwc/f+TWl683b+sbdCjKGIykqut0dwNnZ8oW/btYfZBHVpfkswWbp4Gkcl0wG44x65uIGA86tFPdTWGfAodNBk3TOUQdUBbGABp4gaTdpcJ0f//gUI9Nnt3gnHhbtKLq5NGS221jVaINrzd6MtncpoVMYwJ+3/GNosoc10hDhAdoQrs7Jf3JgWcCpHsnjc7YBf/dkd9grhgBmpM="
+  }
+]
